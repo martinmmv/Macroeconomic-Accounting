@@ -1,2 +1,2 @@
 # Macroeconomic-Accounting
-Exploring public debt, private financial wealth, and sectoral balances.
+Using Python and the FRED API to explore U.S. public debt, private financial wealth, and sectoral balances.
